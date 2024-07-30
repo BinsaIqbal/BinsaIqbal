@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BinsaIqbal
-- 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning Data Science 
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Data Science at University Of Kerala 
 - 📫 Reach me at binza002@gmail.com
 
 <!---
