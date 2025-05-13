@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BinsaIqbal
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Data Science at University Of Kerala 
-- 📫 Reach me at binza002@gmail.com
+🎓 M.Sc Data Science student
+👍 Expertise machine learning and deepl learning
+👀 Interested in Coding
+📫 Reach me at <a name="LikndIn"></a> [https://www.linkedin.com/in/binsa-m-250570221/]
 
 <!---
 BinsaIqbal/BinsaIqbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
