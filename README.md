@@ -1,7 +1,7 @@
 -🎓 M.Sc Data Science student
 -👍 Expertise machine learning and deepl learning
 -👀 Interested in Coding
--📫 Reach me at <a name="[LikndIn](https://www.linkedin.com/in/binsa-m-250570221/)"></a>
+-📫 Reach me at binza0002@gmail.com
 
 <!---
 BinsaIqbal/BinsaIqbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
